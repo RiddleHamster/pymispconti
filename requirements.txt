@@ -1,0 +1,5 @@
+pymisp~=2.4.159
+coinaddrvalidator~=1.1.3
+tika~=1.24
+tqdm~=4.64.0
+validate_email
